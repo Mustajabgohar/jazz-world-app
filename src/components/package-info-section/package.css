@@ -1,0 +1,7 @@
+.package-section {
+  height: 17vh;
+  position: relative;
+  bottom: 8px;
+  border-radius: 5px;
+  background-color: white;
+}

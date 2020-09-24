@@ -1,0 +1,8 @@
+.services-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-radius: 5px;
+  background-color: rgb(236, 236, 236);
+  border: 1px solid black;
+}

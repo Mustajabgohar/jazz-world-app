@@ -1,0 +1,107 @@
+.info-section {
+  background-color: rgb(27, 24, 24);
+  color: white;
+  height: 18vh;
+}
+.balance-section p {
+  font-size: 14px;
+  margin: 0;
+  margin-left: 0.2rem;
+  margin-top: 1rem;
+}
+.credit-amount {
+  margin: 0;
+  margin-left: 0.9rem;
+}
+.credit-amount h1 {
+  font-weight: bold;
+  font-size: 33px;
+}
+.credit-amount span {
+  font-size: 19px;
+  margin-top: 6px;
+}
+.round-info-circle {
+  height: 14px;
+  width: 14px;
+  margin-top: 19px;
+  margin-left: 2px;
+  background-color: rgb(226, 6, 6);
+  border-radius: 50%;
+}
+.round-info-circle span {
+  color: white;
+  font-size: 10px;
+  position: relative;
+  left: 5px;
+  bottom: 8px;
+}
+.credit-amount {
+  font-weight: bold;
+}
+
+.display-pic img {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  border: 1px solid white;
+}
+.name-number :nth-child(1) {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0;
+}
+.name-number :nth-child(2) {
+  font-size: 14px;
+}
+.name-number {
+  margin-left: 6px;
+}
+.name-section {
+  margin-top: 1.6rem;
+}
+.account-add-btn {
+  border-radius: 50%;
+  color: white;
+  margin: 0;
+  margin-left: 2px;
+  margin-top: 1.6rem;
+  height: 14px;
+  width: 14px;
+  background-color: rgb(226, 6, 6);
+}
+.account-add-btn span {
+  position: relative;
+  bottom: 7px;
+  left: 1px;
+}
+
+.tap-section {
+  width: 20rem;
+  border-radius: 5px;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  cursor: point;
+}
+
+.tap-section p {
+  margin: 0;
+  font-size: 13px;
+  font-weight: bold;
+}
+.credit-low {
+  background-color: rgb(226, 6, 6);
+  color: white;
+}
+.credit-low:active {
+  background-color: rgb(131, 7, 7);
+}
+.credit-normal {
+  background-color: rgb(235, 174, 6);
+  color: black;
+}
+.credit-normal:active {
+  background-color: rgb(170, 129, 16);
+}
